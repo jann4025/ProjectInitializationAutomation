@@ -2,10 +2,10 @@ import sys
 import os
 from github import Github
 
-path = "/Users/kalle/Documents/Projects/MyProjects/"
+path = "/Users/jannickholm/dropbox/coding/"
 
-username = "" #Insert your github username here
-password = "" #Insert your github password here
+username = "jann4025" #Insert your github username here
+password = "uYHmKNwffp9QjKkNGsMzUAkC" #Insert your github password here
 
 def create():
     folderName = str(sys.argv[1])
