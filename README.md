@@ -1,6 +1,6 @@
 ### Install: 
 ```bash
-git clone "https://github.com/KalleHallden/ProjectInitializationAutomation.git"
+git clone "https://github.com/jann4025/ProjectInitializationAutomation.git"
 cd ProjectInitializationAutomation
 pip install -r requirements.txt
 source ~/.my_commands.sh
